@@ -1,0 +1,22 @@
+#playerSlider {
+    width: 580px;
+    display: inline-block;
+}
+
+
+#playBtn:focus{
+    outline: 0;
+}
+
+#modalBody {
+    width: 300px;
+    margin: auto;
+}
+
+#joinRoom {
+    display: inline-block;
+}
+
+#createRoom {
+    display: inline-block;
+}
